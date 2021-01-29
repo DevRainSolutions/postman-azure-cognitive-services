@@ -1,4 +1,6 @@
-A Postman collection of Azure Cognitive Services APIs.
+# A Postman collection of Azure Cognitive Services APIs
+
+[Link to the public Postman collection](https://www.postman.com/devrain/workspace/devrain/collection/6348787-f114d6c6-b81f-4e26-acd2-502dcc21bdf5?ctx=documentation)
 
 Azure Cognitive Services are cloud-based services with REST APIs and client library SDKs available to help you build cognitive intelligence into your applications. You can add cognitive features to your applications without having artificial intelligence (AI) or data science skills. Azure Cognitive Services comprise various AI services that enable you to build cognitive solutions that can see, hear, speak, understand, and even make decisions.
 

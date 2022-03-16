@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
 # A Postman collection of Azure Cognitive Services APIs
 
 [Link to the public Postman collection](https://www.postman.com/devrain/workspace/devrain/collection/6348787-f114d6c6-b81f-4e26-acd2-502dcc21bdf5?ctx=documentation)
